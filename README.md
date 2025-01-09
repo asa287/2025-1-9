@@ -1,4 +1,4 @@
-# 2025-1-9-git
+# 1/9/2025: Git
 
 - `git clone`: does a one-time download from github to your local computer
     - make sure the dictionary you are cloning is not already a git repo
