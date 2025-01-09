@@ -8,3 +8,6 @@
 - `git status`: tells you what is happening in your current git repository
 - `git add <FILE>`: adds <FILE> to the staging area
 - `git commit -m "message"`: creates a commit (aka snapshot) with the changes in the staging area
+
+- `git push origin main`
+    - where(remote): origin; what(branch): main
