@@ -1,4 +1,4 @@
-# 2025-1-9
+# 2025-1-9-git
 
 - `git clone`: does a one-time download from github to your local computer
     - make sure the dictionary you are cloning is not already a git repo
@@ -11,3 +11,5 @@
 
 - `git push origin main`
     - where(remote): origin; what(branch): main
+
+- `git pull <where> <what>`
