@@ -13,3 +13,7 @@
     - where(remote): origin; what(branch): main
 
 - `git pull <where> <what>`
+
+- `git config pull.rebase false`: merge the conflict files
+- (use `git add <file>...` to mark resolution)
+- (use `git -commit -m"..."` to conclude the merge
